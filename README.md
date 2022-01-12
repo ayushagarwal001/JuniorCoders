@@ -4,6 +4,4 @@ Problem Statement: The project aims to help students learn about various opprtun
 
 Solution: The project will connect student influencers and various communities working on such events, students can select which technologies they are interested in so they can recieve corresponding mails.
 
-Team Members: Ayush Agarwal
-              Harsh Rathore
-              Manas Raizada
+Team Members: Ayush Agarwal,Harsh Rathore, and Manas Raizada
